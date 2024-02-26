@@ -1,0 +1,41 @@
+/* Add a "background-color" property to the "body" selector to change to a color other than white*/
+/* Add a "font-family" property to the "body" selector to make text "Arial, Helvetica, sans-serif"*/
+/* Add a "text-align" property to the "body" selector to allign text to the center of the page */
+body{
+    background-color: teal;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* Add properties to "h1" selector*/
+/* Use "font-style" property to change h1 text to italics*/
+/* Use "padding-top" property to add 10px of padding to the top of h1 text*/
+h1{
+    font-style: italic;
+    padding-top: 10px;
+}
+
+/* Add a "font-size" property to the "p" selector to increase all your paragraph text to a font size of 45px*/
+p{
+    font-size: 45px;
+}
+
+/* Add a "font-weight" property to the ".title" selector (class) to make the titles of the limericks bold*/
+.title{
+    font-weight: bold;
+}
+
+/* Add a "color" property to the "#theend" selector (ID) to make the word "The End" a color other than black*/
+#theend{
+    color: orange;
+}
+
+/* Add properties to "div" selector*/
+/* Use "padding" property to set padding to 50px*/
+/* Use "margin" property to set margins to 80px*/
+/* Use "border" property to add a black border that is 10px and solid "10px solid black"*/
+div{
+    padding: 50px;
+    margin: 80px;
+    border: 10px solid black;
+}
