@@ -1,0 +1,183 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+/* Center Title 1 */
+    .center {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 1 */
+    .center1 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 1 */
+    .center2 {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Title 2 */
+.center3 {
+    position: absolute;
+    top: 11%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 2 */
+.center4 {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 2 */
+    .center5 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Title 3.1 */
+.center6 {
+    position: absolute;
+    top: 12%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 3.1 */
+.center7 {
+    position: absolute;
+    top: 86%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Title 3.2 */
+.center8 {
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 3.2 */
+.center9 {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 3.2 */
+    .center10 {
+    position: absolute;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Title 3 */
+.center11 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/* Center Answer 3 */
+.center12 {
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 3 */
+    .center13 {
+    position: absolute;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Title 4.1 */
+.center14 {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Title 4.2 */
+.center15 {
+    position: absolute;
+    top: 10%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/* Center Title 5 */
+.center16 {
+    position: absolute;
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 5 */
+.center17 {
+    position: absolute;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Title 6 */
+.center18 {
+    position: absolute;
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 6 */
+    .center19 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Answer 6 */
+    .center20 {
+    position: absolute;
+    top: 88%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Center Title 7 */
+.center21 {
+    position: absolute;
+    top: 50%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+}
